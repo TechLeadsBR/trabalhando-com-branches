@@ -1,4 +1,4 @@
-GET
-POST
-PUT
-DELETE
+GET - concertado
+POST - concertado
+PUT - concertado
+DELETE - concertado
