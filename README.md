@@ -38,3 +38,6 @@ Quando você for criar uma branch, lembre-se de estar na versão mais atual daqu
 Por exemplo: Se você estiver criando um branch ```feat/crud-usuario```, lembre-se de estar na branch de ```dev``` mais atualizada (atualiza-se para a nova versão com git pull origin dev/master)
 Porque?
 Porque se você estiver na branch A e criar uma branch B sem passar pela branch de dev ou master antes, tudo o que foi feito na branch A vai ser passado para a branch B
+
+### Merge
+![](https://media1.tenor.com/images/907ca4314bc8af09f6c3ca5719d60f7e/tenor.gif?itemid=5920259)
